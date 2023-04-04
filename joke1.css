@@ -1,0 +1,30 @@
+.container
+{
+    background-color: saddlebrown;
+    padding:  50px 20px;
+    width: 400px;
+    border-radius: 5px;
+    margin-left: 35%;
+    margin-top: 15%;
+}
+
+
+.btn
+{
+    padding: 10px 20px;
+    background-color: slateblue;
+    border-radius: 3px;
+    margin: 0 5px;
+}
+
+.btn:hover
+{
+    cursor: pointer;
+}
+
+.joke-text
+{
+    margin-bottom: 30px;
+    font-family: monospace;
+    font-size: large;
+}
